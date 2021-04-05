@@ -2,8 +2,8 @@
 Contributors: goback2,ahortin
 Tags: wc, wc license, wc software license, software license, software license manager, woocommerce, wc licensing
 Requires at least: 3.5.1
-Tested up to: 4.8.2
-Stable tag: 2.0.1
+Tested up to: 5.7
+Stable tag: 2.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Seamless integration between WooCommerce and the [Software License Manager](http
 Seamless integration between WooCommerce and the Software License Manager Plugin. Originally adopted from EDD Software License Manager, thanks to flowdee (coder@flowdee.de).
 
 = Github repository =
-https://github.com/shamloo/wc-software-license-manager
+[https://github.com/shamloo/wc-software-license-manager](https://github.com/shamloo/wc-software-license-manager)
 
 = Features =
 
